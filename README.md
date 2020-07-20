@@ -12,4 +12,5 @@ Arguments to pass:
 3. ssh password for services
 
 > `bash dist.sh servers_example.txt test_user test_password`
+
 Note: User password is stored in plaintext for the duration of script.
